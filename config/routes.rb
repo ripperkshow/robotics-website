@@ -11,4 +11,6 @@ Rails.application.routes.draw do
   get 'blogs', to: 'blogs#index'
   get 'contact', to: 'pages#contact'
   get 'donations', to: 'pages#donations'
+  get 'portfolios', to: 'portfolios#index'
+  
 end
