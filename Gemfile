@@ -46,3 +46,5 @@ group :development do
 end
 
 gem 'friendly_id', '~> 5.2', '>= 5.2.1'
+
+gem 'devise', '~> 4.3'
